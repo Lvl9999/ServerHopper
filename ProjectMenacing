@@ -1,0 +1,2 @@
+wait(getgenv().ServerHop)
+game:GetService('TeleportService'):Teleport(tonumber(game.PlaceId), game.Players.LocalPlayer)
